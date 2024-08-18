@@ -268,8 +268,8 @@ window.ontouchend = () => {
 
 <style scoped>
 .logo {
-  -webkit-mask: url(public\devIcon3.svg) no-repeat center;
-  mask: url(public\devIcon3.svg) no-repeat center;
+  -webkit-mask: url(../public/devIcon3.svg) no-repeat center;
+  mask: url(../public/devIcon3.svg) no-repeat center;
 
   -webkit-mask-size: contain;
   mask-size: contain;
